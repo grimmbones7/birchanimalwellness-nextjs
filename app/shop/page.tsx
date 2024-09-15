@@ -30,7 +30,7 @@ const productsData: Product[] = [
     name: 'Plant Based Eating eBook', 
     category: 'eBooks', 
     price: 20.00, 
-    image: '/shop/plantbasedeatingebook.png', 
+    image: '/shop/Plantbasedeatingebook.png', 
     description: 'Learn about the benefits of plant-based eating and get started with easy recipes. Includes 30 recipes: a mix of breakfast, lunch, and dinner.',
     paymentLink: 'https://buy.stripe.com/5kA9D25IO5e82re9AB'
   },
@@ -39,7 +39,7 @@ const productsData: Product[] = [
     name: 'Raw Pet Foods Webinar', 
     category: 'Webinars', 
     price: 15.00, 
-    image: '/shop/rawpetfoodwebinar.png', 
+    image: '/shop/Rawpetfoodwebinar.png', 
     description: 'Explore the benefits and components of raw diets for pets in this informative webinar.',
     paymentLink: 'https://buy.stripe.com/4gw7uU7QW0XSd5SeUW'
   },
@@ -48,7 +48,7 @@ const productsData: Product[] = [
     name: 'Pet Food Labels Webinar', 
     category: 'Webinars', 
     price: 15.00, 
-    image: '/shop/petfoodlabelswebinar.png', 
+    image: '/shop/Petfoodlabelswebinar.png', 
     description: 'Learn how to decipher pet food labels and make informed choices for your pet\'s nutrition.',
     paymentLink: 'https://buy.stripe.com/3cs7uU4EK4a4e9WdQT'
   },
@@ -57,7 +57,7 @@ const productsData: Product[] = [
     name: 'Nutritional Necessities for Pets eBook', 
     category: 'eBooks', 
     price: 15.00, 
-    image: '/shop/nutritionalnecessitiesebook.png', 
+    image: '/shop/Nutritionalnecessitiesebook.png', 
     description: 'A comprehensive guide to understanding and meeting your pet\'s essential nutritional needs.',
     paymentLink: 'https://buy.stripe.com/14kg1q5IO7mgd5S9AE'
   },
