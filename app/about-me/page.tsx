@@ -30,29 +30,33 @@ export default function AboutMePage() {
           </div>
         </div>
 
-        {/* <div className="grid grid-cols-3 mt-8 flex flex-col justify-between items-center bg-white p-4 rounded-lg shadow">
-          <div className="mb-4 sm:mb-0 col-span-2">
-            <h3 className="font-semibold">Session Length:</h3>
-            <p>Approximately 1 hour.</p>
-          </div>
+      <div className=" mt-8 items-center bg-gray-100 p-4 rounded-lg shadow">
+        <h2 className="text-3xl font-semibold text-center mb-4">Credentials</h2>
 
-          <div className="py-2 col-span-1 flex flex-col justify-center items-center">  <Image
-              src="/aboutme/biopic.png" 
-              alt="About me"
-              width={100}
-              height={100}
-              className="rounded-lg"
-            />        
-            <Image
-              src="/aboutme/biopic.png" 
-              alt="About me"
-              width={100}
-              height={100}
-              className="rounded-lg"
-            />    
+          <div className="flex flex-col justify-between grid grid-cols-3" >
+            <div className="mb-4 sm:mb-0 col-span-2">
+
+              <b><p>Honours Specialization in Animal Behaviour (BSc)</p></b>
+              <p>Western University</p>
+              <b><p>Equine, Canine & Feline Iridology Technician</p></b>
+              <p>Through the Eye International (California)</p>
+              <b><p>Holy Fire/Usui Reiki Master</p></b>
+              <b><p>NBCAAM Certified Small Animal & Equine Acupressure Practitioner</p></b>
+              <b><p>Veterinary Assistant</p></b>
+              <p>Ashworth College</p>
+            </div>
+            <div className="py-2 col-span-1 flex flex-col justify-center items-center">  
+              <Image
+                  src="/aboutme/NBCAAMlogo.png" 
+                  alt="NBCAAM Logo"
+                  width={300}
+                  height={300}
+                  className="rounded-lg"
+                />        
+            </div>
           </div> 
-        </div>       */}
+        </div>      
       </div>
-    </div>
+      </div>
   );
 }
